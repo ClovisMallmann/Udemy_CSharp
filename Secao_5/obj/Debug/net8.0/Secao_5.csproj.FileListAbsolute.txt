@@ -1,0 +1,14 @@
+/Users/clovis_mac/Library/Mobile Documents/com~apple~CloudDocs/Desenvolvimento/CSharp/udemy/Secao_5/obj/Debug/net8.0/Secao_5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/clovis_mac/Library/Mobile Documents/com~apple~CloudDocs/Desenvolvimento/CSharp/udemy/Secao_5/obj/Debug/net8.0/Secao_5.AssemblyInfoInputs.cache
+/Users/clovis_mac/Library/Mobile Documents/com~apple~CloudDocs/Desenvolvimento/CSharp/udemy/Secao_5/obj/Debug/net8.0/Secao_5.AssemblyInfo.cs
+/Users/clovis_mac/Library/Mobile Documents/com~apple~CloudDocs/Desenvolvimento/CSharp/udemy/Secao_5/obj/Debug/net8.0/Secao_5.csproj.CoreCompileInputs.cache
+/Users/clovis_mac/Library/Mobile Documents/com~apple~CloudDocs/Desenvolvimento/CSharp/udemy/Secao_5/bin/Debug/net8.0/Secao_5
+/Users/clovis_mac/Library/Mobile Documents/com~apple~CloudDocs/Desenvolvimento/CSharp/udemy/Secao_5/bin/Debug/net8.0/Secao_5.deps.json
+/Users/clovis_mac/Library/Mobile Documents/com~apple~CloudDocs/Desenvolvimento/CSharp/udemy/Secao_5/bin/Debug/net8.0/Secao_5.runtimeconfig.json
+/Users/clovis_mac/Library/Mobile Documents/com~apple~CloudDocs/Desenvolvimento/CSharp/udemy/Secao_5/bin/Debug/net8.0/Secao_5.dll
+/Users/clovis_mac/Library/Mobile Documents/com~apple~CloudDocs/Desenvolvimento/CSharp/udemy/Secao_5/bin/Debug/net8.0/Secao_5.pdb
+/Users/clovis_mac/Library/Mobile Documents/com~apple~CloudDocs/Desenvolvimento/CSharp/udemy/Secao_5/obj/Debug/net8.0/Secao_5.dll
+/Users/clovis_mac/Library/Mobile Documents/com~apple~CloudDocs/Desenvolvimento/CSharp/udemy/Secao_5/obj/Debug/net8.0/refint/Secao_5.dll
+/Users/clovis_mac/Library/Mobile Documents/com~apple~CloudDocs/Desenvolvimento/CSharp/udemy/Secao_5/obj/Debug/net8.0/Secao_5.pdb
+/Users/clovis_mac/Library/Mobile Documents/com~apple~CloudDocs/Desenvolvimento/CSharp/udemy/Secao_5/obj/Debug/net8.0/Secao_5.genruntimeconfig.cache
+/Users/clovis_mac/Library/Mobile Documents/com~apple~CloudDocs/Desenvolvimento/CSharp/udemy/Secao_5/obj/Debug/net8.0/ref/Secao_5.dll
