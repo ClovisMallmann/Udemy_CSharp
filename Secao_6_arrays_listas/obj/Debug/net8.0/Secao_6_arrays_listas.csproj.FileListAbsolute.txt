@@ -1,0 +1,14 @@
+/Users/clovis_mac/Library/Mobile Documents/com~apple~CloudDocs/Desenvolvimento/CSharp/udemy/Secao_6_arrays_listas/obj/Debug/net8.0/Secao_6_arrays_listas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/clovis_mac/Library/Mobile Documents/com~apple~CloudDocs/Desenvolvimento/CSharp/udemy/Secao_6_arrays_listas/obj/Debug/net8.0/Secao_6_arrays_listas.AssemblyInfoInputs.cache
+/Users/clovis_mac/Library/Mobile Documents/com~apple~CloudDocs/Desenvolvimento/CSharp/udemy/Secao_6_arrays_listas/obj/Debug/net8.0/Secao_6_arrays_listas.AssemblyInfo.cs
+/Users/clovis_mac/Library/Mobile Documents/com~apple~CloudDocs/Desenvolvimento/CSharp/udemy/Secao_6_arrays_listas/obj/Debug/net8.0/Secao_6_arrays_listas.csproj.CoreCompileInputs.cache
+/Users/clovis_mac/Library/Mobile Documents/com~apple~CloudDocs/Desenvolvimento/CSharp/udemy/Secao_6_arrays_listas/bin/Debug/net8.0/Secao_6_arrays_listas
+/Users/clovis_mac/Library/Mobile Documents/com~apple~CloudDocs/Desenvolvimento/CSharp/udemy/Secao_6_arrays_listas/bin/Debug/net8.0/Secao_6_arrays_listas.deps.json
+/Users/clovis_mac/Library/Mobile Documents/com~apple~CloudDocs/Desenvolvimento/CSharp/udemy/Secao_6_arrays_listas/bin/Debug/net8.0/Secao_6_arrays_listas.runtimeconfig.json
+/Users/clovis_mac/Library/Mobile Documents/com~apple~CloudDocs/Desenvolvimento/CSharp/udemy/Secao_6_arrays_listas/bin/Debug/net8.0/Secao_6_arrays_listas.dll
+/Users/clovis_mac/Library/Mobile Documents/com~apple~CloudDocs/Desenvolvimento/CSharp/udemy/Secao_6_arrays_listas/bin/Debug/net8.0/Secao_6_arrays_listas.pdb
+/Users/clovis_mac/Library/Mobile Documents/com~apple~CloudDocs/Desenvolvimento/CSharp/udemy/Secao_6_arrays_listas/obj/Debug/net8.0/Secao_6_arrays_listas.dll
+/Users/clovis_mac/Library/Mobile Documents/com~apple~CloudDocs/Desenvolvimento/CSharp/udemy/Secao_6_arrays_listas/obj/Debug/net8.0/refint/Secao_6_arrays_listas.dll
+/Users/clovis_mac/Library/Mobile Documents/com~apple~CloudDocs/Desenvolvimento/CSharp/udemy/Secao_6_arrays_listas/obj/Debug/net8.0/Secao_6_arrays_listas.pdb
+/Users/clovis_mac/Library/Mobile Documents/com~apple~CloudDocs/Desenvolvimento/CSharp/udemy/Secao_6_arrays_listas/obj/Debug/net8.0/Secao_6_arrays_listas.genruntimeconfig.cache
+/Users/clovis_mac/Library/Mobile Documents/com~apple~CloudDocs/Desenvolvimento/CSharp/udemy/Secao_6_arrays_listas/obj/Debug/net8.0/ref/Secao_6_arrays_listas.dll

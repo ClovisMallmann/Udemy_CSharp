@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Secao_6_arrays_listas/1.0.0": {
+        "runtime": {
+          "Secao_6_arrays_listas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Secao_6_arrays_listas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
